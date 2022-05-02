@@ -1,0 +1,10 @@
+void screen_init();
+void reset_disp();
+void start_disp();
+void real_disp();
+void keisoku_disp();
+void kankaku_disp();
+void hyouji(int temp_state, int lux_state, int gasu_state);
+void show_data(int lux);
+void dengen();
+void fireok();
