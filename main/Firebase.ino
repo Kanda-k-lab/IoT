@@ -5,10 +5,10 @@
 
 #include "screen.h"
 // firebase
-//#define FIREBASE_HOST "iotproject-692ca.firebaseio.com"
-//#define FIREBASE_AUTH "EhJnxJKynKGiJWC35UffWNMMU7XcqwdUzbcrp3r6"
-#define FIREBASE_HOST "role-test-df819-test-database.firebaseio.com"
-#define FIREBASE_AUTH "BoekWlHf4TpMaLMM1i5X7KVzOkHz6Q3jaWajjbNM"
+//#define FIREBASE_HOST ""
+//#define FIREBASE_AUTH ""
+#define FIREBASE_HOST "firebaseのプロジェクト名　OOO.firebaseis.com"
+#define FIREBASE_AUTH "authキー"
 
 FirebaseData firebaseData;
 //FirebaseJson json;
